@@ -1,0 +1,11 @@
+subject,body,label
+"Urgent: Update Your Password","Dear user, your account has been compromised. Click here to reset your password immediately: http://fake-link.com",1
+"Invoice for Last Month","Hi, please find attached the invoice for last month's services. Let me know if you have any questions.",0
+"Security Alert: Unusual Login Attempt","We detected an unusual login attempt on your account from a different location. Verify now: http://malicious-site.com",1
+"Meeting Confirmation","Hi Team, the meeting is scheduled for tomorrow at 3 PM. Let me know if you need to reschedule.",0
+"Your Account Will Be Locked","Your email storage is full! Click this link to upgrade and avoid losing emails: http://phishing-website.com",1
+"Job Offer from HR","Congratulations! You have been selected for a high-paying job. Provide your details here: http://fake-careers.com",1
+"Payment Confirmation for Your Order","Thank you for your purchase. Your order will be delivered in 3-5 days.",0
+"New Policy Update","Dear employee, please read the latest policy update from HR in the attached document.",0
+"Win a Free iPhone!","You are the lucky winner of a free iPhone! Click here to claim your prize: http://scam-link.com",1
+"CEO Request: Urgent Payment Needed","Hi, I need you to wire $5000 to this account ASAP. This is a confidential request. Do not discuss.",1
